@@ -1,6 +1,11 @@
 # Bigquery_Express
 
 ## 概要
+BigQueryからデータを取得してクライアントに返すexpressjsのアプリケーション。
+
+「起動までにすべきこと」を終えたら、以下のようなbaby_namesを取得できるようになる。
+![Screen Shot 2022-02-26 at 0 04 02](https://user-images.githubusercontent.com/52193990/155738297-7b60b077-3d38-42f6-b8a2-11c268573a75.png)
+
 
 ## 起動までにすべきこと
 

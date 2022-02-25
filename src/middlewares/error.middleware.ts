@@ -10,8 +10,7 @@ const isExpectedError = (err: Error) => {
 export const errorMiddleware = async (
 	err: Error,
 	req: Request,
-	res: Response,
-	next: NextFunction
+	res: Response
 ) => {
 	if (isExpectedError(err)) {
 		return res

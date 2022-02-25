@@ -1,0 +1,10 @@
+@base_url=http://localhost:3000
+
+### hello world
+GET {{base_url}}
+
+### エラーのテスト
+GET {{base_url}}/test_error
+
+# ### BabyNamesを出力
+# GET {{base_url}}/baby_names
